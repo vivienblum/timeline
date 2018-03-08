@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1413895773 source:p:\tp info s3\tp3\timeline\main.c
+	<stdio.h>
+	<stdlib.h>
+	"timeline.h"
+
+1416991503 h"
+
+1413895953 p:\tp info s3\tp3\timeline\timeline.h
+
+1413899953 source:p:\tp info s3\tp3\timeline\cartes.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+
+1416913506 
+
+1413900337 p:\tp info s3\tp3\timeline\cartes.h
+
+1413900118 source:p:\tp info s3\tp3\timeline\simpleio.c
+	<stdio.h>
+	<stdlib.h>
+	"simpleio.h"
+
+1413900118 p:\tp info s3\tp3\timeline\simpleio.h
+
+1413899856 source:p:\tp info s3\tp3\timeline\timeline.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+	"joueur.h"
+
+1413901773 p:\tp info s3\tp3\timeline\joueur.h
+	"cartes.h"
+
+1413901746 source:p:\tp info s3\tp3\timeline\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1418477346 source:c:\users\vivien\documents\tp info s3\tp3\timeline\cartes.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+
+1418477390 c:\users\vivien\documents\tp info s3\tp3\timeline\cartes.h
+	<string.h>
+
+1418477412 source:c:\users\vivien\documents\tp info s3\tp3\timeline\simpleio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"simpleio.h"
+	"lireFichier.h"
+
+1418477135 c:\users\vivien\documents\tp info s3\tp3\timeline\simpleio.h
+	<string.h>
+
+1418478530 source:c:\users\vivien\documents\tp info s3\tp3\timeline\timeline.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+	"joueur.h"
+	"lireFichier.h"
+
+1418471286 c:\users\vivien\documents\tp info s3\tp3\timeline\joueur.h
+	"cartes.h"
+
+1418493220 source:c:\users\vivien\documents\tp info s3\tp3\timeline\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+	"cartes.h"
+	"simpleio.h"
+
+1418477135 source:c:\users\vivien\documents\tp info s3\tp3\timeline\lirefichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lireFichier.h"
+	"cartes.h"
+	"simpleio.h"
+
+1414009864 er.h"
+
+1418477135 c:\users\vivien\documents\tp info s3\tp3\timeline\lirefichier.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cartes.h"
+
+1414016052 source:/home/tp-home008/vblum/Documents/timeline/cartes.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+
+1414016052 /home/tp-home008/vblum/Documents/timeline/cartes.h
+
+1416999065 source:/home/tp-home008/vblum/Documents/timeline/joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+	"cartes.h"
+	"simpleio.h"
+
+1416999356 /home/tp-home008/vblum/Documents/timeline/joueur.h
+	"cartes.h"
+	"cartes.h"
+
+1414013464 source:/home/tp-home008/vblum/Documents/timeline/lireFichier.c
+	"lireFichier.h"
+	"lireFichier.h"
+
+1414013440 /home/tp-home008/vblum/Documents/timeline/lireFichier.h
+
+1416997249 source:/home/tp-home008/vblum/Documents/timeline/simpleio.c
+	<stdio.h>
+	<stdlib.h>
+	"simpleio.h"
+	<stdio.h>
+	<stdlib.h>
+	"simpleio.h"
+
+1416994344 /home/tp-home008/vblum/Documents/timeline/simpleio.h
+
+1416999434 source:/home/tp-home008/vblum/Documents/timeline/timeline.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+	"joueur.h"
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+	"joueur.h"
+
+1414012452 source:p:\documents\timeline\cartes.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+
+1414012452 p:\documents\timeline\cartes.h
+
+1416993393 source:p:\documents\timeline\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+	"cartes.h"
+	"simpleio.h"
+
+1416991848 p:\documents\timeline\joueur.h
+	"cartes.h"
+
+1414009864 source:p:\documents\timeline\lirefichier.c
+	"lireFichier.h"
+
+1414009840 p:\documents\timeline\lirefichier.h
+
+1416991503 source:p:\documents\timeline\simpleio.c
+	<stdio.h>
+	<stdlib.h>
+	"simpleio.h"
+
+1416991634 p:\documents\timeline\simpleio.h
+
+1416991849 source:p:\documents\timeline\timeline.c
+	<stdio.h>
+	<stdlib.h>
+	"cartes.h"
+	"joueur.h"
+
